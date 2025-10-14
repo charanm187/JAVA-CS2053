@@ -44,3 +44,30 @@ public class matrix {
         sc.close();
     }
 }
+
+
+
+
+
+Enter the size of the square matrix (n): 3
+Enter the elements of the matrix:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Matrix Entered:
+1	2	3	
+4	5	6	
+7	8	9	
+
+Middle element (odd-sized matrix): 5
+
+
+
+
